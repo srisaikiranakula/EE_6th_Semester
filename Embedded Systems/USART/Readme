@@ -1,0 +1,3 @@
+Data communication using USART (port D of the Atmega32). 
+Transmit Data via TxD pin to the serial monitor which displays the waveform for “I I T Kharagpur” at different baud rates. 
+Data can be transmitted using the ASCII code. Repeat the sequence such that the wave form repeats in the serial monitor. 
